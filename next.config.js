@@ -4,8 +4,8 @@ const nextConfig = {
     images: {
       unoptimized: true,
     },
-    assetPrefix: '/quick-auto/',
-    basePath: '/quick-auto',
+    assetPrefix: '/Quick-Auto/',
+    basePath: '/Quick-Auto',
   }
   
   module.exports = nextConfig
