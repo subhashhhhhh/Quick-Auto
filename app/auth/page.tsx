@@ -45,7 +45,7 @@ export default function AuthPage() {
       <header className="px-4 lg:px-6 h-14 flex items-center">
         <div className="flex items-center justify-center">
           <Car className="h-6 w-6" />
-          <span className="ml-2 text-lg font-bold">Quick Auto</span>
+          <span className="ml-2 text-lg font-bold">Riderrr</span>
         </div>
       </header>
       <main className="flex-1 flex items-center justify-center">
